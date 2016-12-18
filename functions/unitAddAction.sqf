@@ -1,4 +1,4 @@
-player addaction ["Earplugs", "addons\earPlugs.sqf"]; // Adds 'earplugs' option to scrollwheel menu
+player addaction ["Insert Earplugs", "addons\earPlugs.sqf"]; // Adds 'insert earplugs' option to scrollwheel menu
 
 
 
